@@ -1,4 +1,4 @@
-# php-news-site
+# PHP News Site
 
 This site is showcasing my work, skills, and experience.
 
